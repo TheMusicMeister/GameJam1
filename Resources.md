@@ -69,7 +69,7 @@ The following resources are available to any NullPointer Studios project:
 
 [gui-icons](https://www.gamedevmarket.net/asset/gui-icons-8656/)
 
-[Fantasy Icons Megapack](https://assetstore.unity.com/packages/2d/gui/icons/fantasy-icons-megapack-97000)
+[Fantasy Icons Megapack](https://assetstore.unity.com/packages/2d/gui/icons/fantasy-icons-megapack-97000)*
 
 ### GUI
 [sci-fi-game](https://tokegameart.net/item/cartoon-sci-fi-game-gui/)
@@ -80,11 +80,11 @@ The following resources are available to any NullPointer Studios project:
 
 ### Cursors
 
-[RPG Cursors](https://assetstore.unity.com/packages/2d/gui/icons/rpg-cursors-40575)
+[RPG Cursors](https://assetstore.unity.com/packages/2d/gui/icons/rpg-cursors-40575)*
 
 ### Portraits
 
-[Fantasy Portrait Pack](https://assetstore.unity.com/packages/2d/characters/fantasy-portrait-pack-10632)
+[Fantasy Portrait Pack](https://assetstore.unity.com/packages/2d/characters/fantasy-portrait-pack-10632)*
 
 ## Audio
 
@@ -92,12 +92,13 @@ The following resources are available to any NullPointer Studios project:
 
 [Ultimate Game Music Collection](https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351)*
 
-[Fantasy Ambient Music Pack](https://assetstore.unity.com/packages/audio/music/fantasy-ambient-music-pack-49863)
+[Fantasy Ambient Music Pack](https://assetstore.unity.com/packages/audio/music/fantasy-ambient-music-pack-49863)*
+
 ### SFX
 
 [Universal Sound FX](https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256)*
 
-[Middle Age - Medieval Action Sound FX Pack](https://assetstore.unity.com/packages/audio/sound-fx/middle-age-medieval-action-sound-fx-pack-54030)
+[Middle Age - Medieval Action Sound FX Pack](https://assetstore.unity.com/packages/audio/sound-fx/middle-age-medieval-action-sound-fx-pack-54030)*
 
 ## Textures
 
