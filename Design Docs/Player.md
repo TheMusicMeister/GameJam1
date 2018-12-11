@@ -2,6 +2,6 @@
 
 ## Description
 
-Daughter of item shop owner
-Tomboy
-Long feathered red hair
+* Daughter of item shop owner
+* Tomboy
+* Long feathered red hair
