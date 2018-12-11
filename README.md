@@ -22,3 +22,13 @@ During the course of the project, it might be nice to have these applications:
 Once you have the necessary tools installed, clone this repo and open the `GameJam` folder in Unity.
 
 ### Contributing
+
+### Contributors
+
+Khadaj (Development, Management)
+Forevermoore (Music)
+Kazze ()
+Kirk (Development)
+MusicMeister (Music)
+Trevor (Art)
+Jaron (Art)
