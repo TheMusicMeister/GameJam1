@@ -33,3 +33,4 @@ Once you have the necessary tools installed, clone this repo and open the `GameJ
 * Trevor (Art)
 * DarkKnightKD (Design)
 * Jaron (Level Design, Art)
+* Darksuvius ()
