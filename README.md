@@ -25,10 +25,11 @@ Once you have the necessary tools installed, clone this repo and open the `GameJ
 
 ### Contributors
 
-Khadaj (Development, Management)
-Forevermoore (Music)
-Kazze ()
-Kirk (Development)
-MusicMeister (Music)
-Trevor (Art)
-Jaron (Art)
+* Khadaj (Development, Management)
+* Forevermoore (Music)
+* Kazze ()
+* Kirk (Development)
+* MusicMeister (Music)
+* Trevor (Art)
+* DarkKnightKD (Design)
+* Jaron (Level Design, Art)
