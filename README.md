@@ -27,7 +27,7 @@ Once you have the necessary tools installed, clone this repo and open the `GameJ
 
 * Khadaj (Development, Management)
 * Forevermoore (Music)
-* Kazze ()
+* Kazze (Development)
 * Kirk (Development)
 * MusicMeister (Music)
 * Trevor (Art)
