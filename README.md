@@ -38,6 +38,7 @@ Assuming you have set up your repo and Unity correctly, you should now be able t
 In order to contribute, you will need to commit any changes you make to your github repo, and open a pull request to the main repo. 
 
 You can learn more about pushing your changes to your github repo [here](https://stackoverflow.com/questions/27211578/how-to-commit-changes-to-github-with-github-desktop).
+
 You can learn more about making a pull request [here](https://help.github.com/articles/creating-a-pull-request/).
 If you have any questions about Git or Github, please ask Khadaj.
 
