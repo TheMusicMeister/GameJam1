@@ -34,12 +34,16 @@ During the course of the project, it might be nice to have these applications:
 #### Opening the Project
 Assuming you have set up your repo and Unity correctly, you should now be able to open the GameJam subfolder inside Unity.
 
+#### Updating your repo
+When there are changes made to the master repo, you will need to pull those changes into your personal repo. You can do this by [adding a new remote to your local repo](https://help.github.com/articles/adding-a-remote/), or by opening a pull request to your github repo and pulling down the changes.
+
 ### Contributing
 In order to contribute, you will need to commit any changes you make to your github repo, and open a pull request to the main repo. 
 
 You can learn more about pushing your changes to your github repo [here](https://stackoverflow.com/questions/27211578/how-to-commit-changes-to-github-with-github-desktop).
 
 You can learn more about making a pull request [here](https://help.github.com/articles/creating-a-pull-request/).
+
 If you have any questions about Git or Github, please ask Khadaj.
 
 All pull requests to the main repo must be reviewed by another member of the team before the change is merged into the master repo.
