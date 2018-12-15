@@ -5,7 +5,7 @@ January 2019 Game Jam
 
 ### Tools
 
-In order to contribute to this gamejam, you will the following:
+In order to contribute to this gamejam, you will need the following:
 
 * Unity Version 2018.3
 * Visual Studio Community Edition (Installed with Unity)
