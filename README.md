@@ -2,6 +2,7 @@
 January 2019 Game Jam
 
 ## Getting Started
+Welcome to our project repo! Follow here to learn more.
 
 ### Tools
 
